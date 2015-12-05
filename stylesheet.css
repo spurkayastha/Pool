@@ -1,0 +1,84 @@
+/*CSS Stylesheet */
+
+body {height: 100%; width: 100%; margin: 0; background: linear-gradient(skyblue, white, white); }
+ul, ol {list-style: none;}
+.clearfix {clear: both;}
+
+
+#one {
+    background-color: rgba(0,0,0,0);
+}
+
+#container {
+/*    margin: 400px 0 0 320px;*/
+border: ;
+/*    height: 800px;*/
+    width: 1280px;
+    overflow: hidden;
+
+height: 768px;
+
+}
+
+.layer {top:0;}
+
+
+#container li {
+    margin-left: 0;
+    margin-top:0;
+}
+
+
+.scene {
+    height: 1200px; background-size: cover;
+}
+
+
+#kidlayer{padding-top: 270px; padding-left: 300px; background-size: cover;}
+
+
+#kidlayer2{padding-top:350px; padding-left: 530px;}
+
+#kidlayer3{ padding-top: 370px; padding-left: 750px;}
+
+#tubelayer1 { padding-top: 530px; padding-left: 600px;}
+
+#tubelayer2 {padding-top: 550px; padding-left: 1080px;}
+
+#cloudlayer1{padding-left:260px;}
+
+#cloudlayer2 {padding-left:700px;}
+
+#heading {text-align: center; text-transform: uppercase; font-size: 50px;}
+
+
+#chutelayer1 {padding-left: 200px; padding-top: 10px;}
+
+#slidelayer2 {padding-left:800px; padding-top:5px;}
+
+#slidelayer3 {padding-left:630px; padding-top: 30px;}
+
+
+#grasslayer {padding-top: 250px; padding-left: -100px;}
+
+
+#grasslayer2 {padding-top: 250px; padding-left: 600px;}
+
+
+#water { left:0px; padding-top: 0px;}
+
+#wavelayer1 { left: 0px; padding-top: 540px;}
+
+
+#wavelayer2 {left: 0px; padding-top: 285px;}
+
+#wavelayer3 {margin-right:0; padding-top: 220px; padding-left: 700px;}
+
+
+#wavelayer4 {padding-top: 270px; padding-left:140px;}
+
+
+#sign {padding-left: 500px; top:0; animation: swing; background-image: url(images/sign.png); background-repeat: no-repeat;} 
+
+
+
